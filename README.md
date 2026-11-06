@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I like rules and clean lines.  Minimalist UI, privacy-focused, blocky aesthetics, pixelated, retro gaming, matrix, bit-level design.
 <!--
 **dospixelate/dospixelate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
